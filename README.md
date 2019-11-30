@@ -1,1 +1,2 @@
-# Android TV app that displayes my gitup io page
+# Android TV app that displayes
+https://kaimohr.github.io/
